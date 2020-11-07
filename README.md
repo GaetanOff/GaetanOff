@@ -1,4 +1,4 @@
-<h1 align="center">Bienvenue sur mon discord.</h1>
+<h1 align="center">Bienvenue sur mon discord ! 😄</h1>
 
 <a href="https://github.com/GaetanOff">
   <img src="https://github-readme-stats.vercel.app/api?username=GaetanOff&show_icons=true&count_private=true&hide_title=true" />
