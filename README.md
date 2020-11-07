@@ -1,11 +1,11 @@
 <h1 align="center">Salut, je suis Gaëtan.</h1>
 
 <a href="https://github.com/GaetanOff">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaetanOff&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GaetanOff&show_icons=true&count_private=true&hide_title=true" />
 </a>
 
 <a href="https://github.com/GaetanOff">
-  <img src="https://github-readme-stats.vercel.app/api?username=GaetanOff&show_icons=true&count_private=true&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaetanOff&layout=compact" />
 </a>
 
 <!--
