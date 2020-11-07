@@ -9,13 +9,6 @@
         height="70"
        />
     </a>
-    <a href="https://img2.freepng.fr/20180808/ytw/kisspng-bash-shell-script-bourne-shell-scripting-language-create-and-delete-files-and-folders-in-bash-from-5b6ab0e6d589e2.2952756215337187588747.jpg">
-      <img src="assets/devicons/gradle.svg"
-        alt="gradle"
-        width="40"
-        height="70"
-      />
-    </a>
 
 </p>
 
