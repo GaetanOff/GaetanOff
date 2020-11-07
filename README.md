@@ -1,18 +1,5 @@
 <h1 align="center">Salut, je suis Gaëtan.</h1>
 
-<br>
-<p align="center">Langages que je connais</p>
-<p align="center">
-    <a href="https://www.java.com"> 
-      <img src="assets/devicons/java.svg"
-        alt="java"
-        width="40"
-        height="70"
-       />
-    </a>
-
-</p>
-
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=GaetanOff&show_icons=true" alt="GaetanOff" />
 </p>
