@@ -1,5 +1,6 @@
 <h1 align="center">Salut, je suis Gaëtan.</h1>
 
+<br>
 <p align="center">Langages que je connais</p>
 <p align="center">
     <a href="https://www.java.com"> 
