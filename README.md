@@ -1,4 +1,4 @@
-<h1 align="center">Salut, Je suis Gaëtan</h1>
+<h1 align="center">Salut, je suis Gaëtan.</h1>
 
 <!--
 **GaetanOff/GaetanOff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
