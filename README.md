@@ -10,7 +10,9 @@
   <a href="https://twitter.com/Gaetan_Off" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a> 
+    <a href="https://discord.bio/p/gaetan7171" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/Discord-738ADB?style=for-the-badge" />
+  </a> 
 </p>
-
 
 ![Mes stats](https://github-readme-stats.vercel.app/api?username=GaetanOff)
