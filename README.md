@@ -1,6 +1,6 @@
 <h1 align="center">Bienvenue ! 😄</h1>
 
-[![official JetBrains project](http://jb.gg/badges/official.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
+[![official JetBrains project](http://jb.gg/badges/official.svg)](https://www.jetbrains.com/)
 
 ### Contact
 <p>
