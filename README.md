@@ -10,9 +10,5 @@
   </a> 
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GaetanOff&show_icons=true&count_private=true&hide_title=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaetanOff&layout=compact" />
-</p>
+
+![Mes stats](https://github-readme-stats.vercel.app/api?username=GaetanOff)
