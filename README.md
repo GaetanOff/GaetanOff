@@ -3,6 +3,7 @@
 [![official JetBrains project](http://jb.gg/badges/official.svg)](https://www.jetbrains.com/)
 
 ### Contact
+[![Github](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/GaetanOff)
 <p>
   <a href="https://github.com/GaetanOff" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
