@@ -14,5 +14,3 @@
     <img alt="Twitter" src="https://img.shields.io/badge/Discord-738ADB?style=for-the-badge" />
   </a> 
 </p>
-
-![Mes stats](https://github-readme-stats.vercel.app/api?username=GaetanOff)
