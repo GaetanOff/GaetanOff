@@ -3,7 +3,7 @@ I'm french Full stack developer & DevOps.
 My name is Gaëtan, and I have been practicing this field since 2015!
 
 # What main language am I using ? 
-- [HTML](https://developer.mozilla.org/fr/docs/Web/HTML), [CSS](https://developer.mozilla.org/fr/docs/Web/CSS), [SASS](https://sass-lang.com/)
+- [Angular](https://angular.io/), [HTML](https://developer.mozilla.org/fr/docs/Web/HTML), [CSS](https://developer.mozilla.org/fr/docs/Web/CSS), [SASS](https://sass-lang.com/)
 - [JS](https://developer.mozilla.org/fr/docs/Web/JavaScript), [TS](https://www.typescriptlang.org/), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/), [Java](https://www.java.com/fr/), [Kotlin](https://kotlinlang.org/), [Dart](https://dart.dev/)
 - [Golang](https://golang.org/), [C](https://fr.wikipedia.org/wiki/C_(langage)), [C++](https://fr.wikipedia.org/wiki/C++)
 
