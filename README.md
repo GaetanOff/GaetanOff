@@ -1,4 +1,6 @@
-<h1 align="center">Bienvenue ! 😄</h1>
+# Bienvenue ! 😄
+I'm french Full stack developer & DevOps.
+My name is Gaëtan, and I have been practicing this field since 2015!
 
 [![official JetBrains project](http://jb.gg/badges/official.svg)](https://www.jetbrains.com/)
 
