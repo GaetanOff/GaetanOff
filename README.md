@@ -1,6 +1,6 @@
 # Welcome ! 😄
-I'm french Full stack developer & DevOps. Currently using [Jetbrains](https://www.jetbrains.com/) tools.
-My name is Gaëtan, and I have been practicing this field since 2015!
+My name is Gaëtan, and I have been practicing this field since 2015 and 
+I'm french full stack developer & DevOps. Currently using [Jetbrains](https://www.jetbrains.com/) tools.
 
 # What main language am I using ? 
 - [Angular](https://angular.io/), [HTML](https://developer.mozilla.org/fr/docs/Web/HTML), [CSS](https://developer.mozilla.org/fr/docs/Web/CSS), [SASS](https://sass-lang.com/)
