@@ -1,5 +1,5 @@
 # Welcome ! 😄
-I'm french Full stack developer & DevOps.
+I'm french Full stack developer & DevOps. Currently using [Jetbrains](https://www.jetbrains.com/) tools.
 My name is Gaëtan, and I have been practicing this field since 2015!
 
 # What main language am I using ? 
