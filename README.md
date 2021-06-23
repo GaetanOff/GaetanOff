@@ -2,7 +2,7 @@
 I'm french Full stack developer & DevOps.
 My name is Gaëtan, and I have been practicing this field since 2015!
 
-# Which Technology do I use ?
+# What main technology am I using ? 
 - [HTML](https://developer.mozilla.org/fr/docs/Web/HTML), [CSS](https://developer.mozilla.org/fr/docs/Web/CSS), [SASS](https://sass-lang.com/)
 - [PHP](https://www.php.net/)
 - [JS](https://developer.mozilla.org/fr/docs/Web/JavaScript), [TS](https://www.typescriptlang.org/)
