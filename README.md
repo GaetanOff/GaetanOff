@@ -8,7 +8,7 @@ My name is Gaëtan, and I have been practicing this field since 2015!
 - [Golang](https://golang.org/), [C](https://fr.wikipedia.org/wiki/C_(langage)), [C++](https://fr.wikipedia.org/wiki/C++)
 
 # What main DevOps technology am I using ? 
-- [Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/), [Terraform](https://www.terraform.io/), [Ansible](https://www.ansible.com/), [Snyk](https://snyk.io/) 
+- [Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/), [Terraform](https://www.terraform.io/), [Ansible](https://www.ansible.com/), [Snyk](https://snyk.io/), [Datadog](https://www.datadoghq.com/) 
 - [AWS](https://aws.amazon.com/), [GCP](https://cloud.google.com/), [OVH](https://www.ovh.com/)
 - [Prometheus](https://prometheus.io/), [Grafana](https://grafana.com/)
 - [VMware](https://www.vmware.com/), [Proxmox](https://www.proxmox.com/), [Unraid](https://unraid.net/)
