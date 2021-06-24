@@ -1,5 +1,5 @@
 # Welcome ! 😄
-My name is Gaëtan, and I have been practicing this field since 2015 and 
+My name is Gaëtan, I practice this field since 2015 and 
 I'm french full stack developer & DevOps. Currently using [Jetbrains](https://www.jetbrains.com/) tools. Working on dual boot [Manjaro](https://manjaro.org/) x [Windows](https://www.microsoft.com/en-us/windows). 
 
 # What main language am I using ? 
