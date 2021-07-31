@@ -1,6 +1,6 @@
-# Welcome ! 😄
-My name is Gaëtan, I practice this field since 2015 and 
-I'm french full stack developer & DevOps. Currently using [Jetbrains](https://www.jetbrains.com/) tools. Working on dual boot [Manjaro](https://manjaro.org/) x [Windows](https://www.microsoft.com/en-us/windows). 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/> Hey !
+Welcome to my page!  
+My name is Gaëtan, I'm french full stack developer & DevOps. Currently using [Jetbrains](https://www.jetbrains.com/) tools. Working on dual boot [Manjaro](https://manjaro.org/) x [Windows](https://www.microsoft.com/en-us/windows). 
 
 # What main language am I using ? 
 - [Angular](https://angular.io/), [HTML](https://developer.mozilla.org/fr/docs/Web/HTML), [CSS](https://developer.mozilla.org/fr/docs/Web/CSS), [SASS](https://sass-lang.com/)
