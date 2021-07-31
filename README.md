@@ -12,7 +12,6 @@ My name is Gaëtan, I'm french full stack developer & DevOps. Currently using [J
 - [AWS](https://aws.amazon.com/), [GCP](https://cloud.google.com/), [OVH](https://www.ovh.com/)
 - [Prometheus](https://prometheus.io/), [Grafana](https://grafana.com/)
 - [VMware](https://www.vmware.com/), [Proxmox](https://www.proxmox.com/), [Unraid](https://unraid.net/)
-- [TCPDump](https://fr.wikipedia.org/wiki/Tcpdump), [IPTables](https://fr.wikipedia.org/wiki/Iptables)
 
 # Contact
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Gaetan_Off)
