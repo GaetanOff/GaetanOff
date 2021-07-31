@@ -3,8 +3,8 @@ Welcome to my page !
 My name is Gaëtan, I'm french full stack developer & DevOps. Currently using [Jetbrains](https://www.jetbrains.com/) tools. Working on dual boot [Manjaro](https://manjaro.org/) x [Windows](https://www.microsoft.com/en-us/windows). 
 
 # What main language am I using ? 
-- [Angular](https://angular.io/), [HTML](https://developer.mozilla.org/fr/docs/Web/HTML), [CSS](https://developer.mozilla.org/fr/docs/Web/CSS), [SASS](https://sass-lang.com/)
-- [JS](https://developer.mozilla.org/fr/docs/Web/JavaScript), [TS](https://www.typescriptlang.org/), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/), [Java](https://www.java.com/), [Kotlin](https://kotlinlang.org/), [Dart](https://dart.dev/)
+- [Angular](https://angular.io/) ([HTML](https://developer.mozilla.org/fr/docs/Web/HTML), [CSS](https://developer.mozilla.org/fr/docs/Web/CSS), [SASS](https://sass-lang.com/), [TypeScript](https://www.typescriptlang.org/))
+- [C#](https://docs.microsoft.com/en-us/dotnet/csharp/), [Java](https://www.java.com/), [Kotlin](https://kotlinlang.org/), [Dart](https://dart.dev/), [JavaScript](https://developer.mozilla.org/fr/docs/Web/JavaScript)
 - [Golang](https://golang.org/), [C](https://fr.wikipedia.org/wiki/C_(langage)), [C++](https://fr.wikipedia.org/wiki/C++)
 
 # What main DevOps technology am I using ? 
