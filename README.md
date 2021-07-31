@@ -1,5 +1,5 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/> Hey !
-Welcome to my page!  
+Welcome to my page !  
 My name is Gaëtan, I'm french full stack developer & DevOps. Currently using [Jetbrains](https://www.jetbrains.com/) tools. Working on dual boot [Manjaro](https://manjaro.org/) x [Windows](https://www.microsoft.com/en-us/windows). 
 
 # What main language am I using ? 
