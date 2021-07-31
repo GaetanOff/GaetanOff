@@ -13,7 +13,7 @@ My name is Gaëtan, I'm french full stack developer & DevOps. Currently using [J
 - [Prometheus](https://prometheus.io/), [Grafana](https://grafana.com/)
 - [VMware](https://www.vmware.com/), [Proxmox](https://www.proxmox.com/), [Unraid](https://unraid.net/)
 
-# Contact
+# Where to find me ?
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Gaetan_Off)
 [![Discord](https://img.shields.io/static/v1?label=Discord&message=Gaetan%230099&color=7289DA&logo=Discord&style=for-the-badge)]()
 
