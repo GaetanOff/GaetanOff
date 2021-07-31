@@ -8,10 +8,11 @@ My name is Gaëtan, I'm french full stack developer & DevOps. Currently using [J
 - [Golang](https://golang.org/), [C](https://fr.wikipedia.org/wiki/C_(langage)), [C++](https://fr.wikipedia.org/wiki/C++)
 
 # What main DevOps technology am I using ? 
-- [Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/), [Terraform](https://www.terraform.io/), [Ansible](https://www.ansible.com/), [Snyk](https://snyk.io/), [Datadog](https://www.datadoghq.com/) 
 - Cloud Provider ([AWS](https://aws.amazon.com/), [GCP](https://cloud.google.com/), [OVH](https://www.ovh.com/))
-- Monitoring ([Prometheus](https://prometheus.io/), [Grafana](https://grafana.com/))
+- Monitoring ([Prometheus](https://prometheus.io/), [Grafana](https://grafana.com/), [Datadog](https://www.datadoghq.com/))
 - Virtualization ([VMware](https://www.vmware.com/), [Proxmox](https://www.proxmox.com/), [Unraid](https://unraid.net/))
+- Containerisation ([Docker](https://www.docker.com/), [Containerd](https://containerd.io/), [Kubernetes](https://kubernetes.io/))
+- IaC ([Terraform](https://www.terraform.io/), [Ansible](https://www.ansible.com/))
 
 # Where to find me ?
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Gaetan_Off)
