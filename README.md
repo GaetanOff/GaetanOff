@@ -9,9 +9,9 @@ My name is Gaëtan, I'm french full stack developer & DevOps. Currently using [J
 
 # What main DevOps technology am I using ? 
 - [Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/), [Terraform](https://www.terraform.io/), [Ansible](https://www.ansible.com/), [Snyk](https://snyk.io/), [Datadog](https://www.datadoghq.com/) 
-- [AWS](https://aws.amazon.com/), [GCP](https://cloud.google.com/), [OVH](https://www.ovh.com/)
-- [Prometheus](https://prometheus.io/), [Grafana](https://grafana.com/)
-- [VMware](https://www.vmware.com/), [Proxmox](https://www.proxmox.com/), [Unraid](https://unraid.net/)
+- Cloud Provider ([AWS](https://aws.amazon.com/), [GCP](https://cloud.google.com/), [OVH](https://www.ovh.com/))
+- Monitoring ([Prometheus](https://prometheus.io/), [Grafana](https://grafana.com/))
+- Virtualization ([VMware](https://www.vmware.com/), [Proxmox](https://www.proxmox.com/), [Unraid](https://unraid.net/))
 
 # Where to find me ?
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Gaetan_Off)
