@@ -5,7 +5,7 @@ My name is Gaëtan, I'm a french full stack developer & an enthusiastic engineer
 # What main language am I using ? 
 - [Angular](https://angular.io/) ([HTML](https://developer.mozilla.org/fr/docs/Web/HTML), [CSS](https://developer.mozilla.org/fr/docs/Web/CSS), [SASS](https://sass-lang.com/), [TypeScript](https://www.typescriptlang.org/))
 - High-Level ([C#](https://docs.microsoft.com/en-us/dotnet/csharp/), [Java](https://www.java.com/), [Kotlin](https://kotlinlang.org/), [Dart](https://dart.dev/), [JavaScript](https://developer.mozilla.org/fr/docs/Web/JavaScript))
-- Low-Level ([Golang](https://golang.org/), [C](https://fr.wikipedia.org/wiki/C_(langage)), [C++](https://fr.wikipedia.org/wiki/C++))
+- Low-Level ([Go](https://golang.org/), [C](https://fr.wikipedia.org/wiki/C_(langage)), [C++](https://fr.wikipedia.org/wiki/C++))
 
 # What main DevOps technology am I using ? 
 - Cloud Provider ([AWS](https://aws.amazon.com/), [GCP](https://cloud.google.com/), [OVH](https://www.ovh.com/))
