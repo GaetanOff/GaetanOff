@@ -1,4 +1,4 @@
-[![banner](GAETANDEV.webp)](https://gaetandev.fr/)
+[![banner](GAETANDEV.webp)](https://gaetandev.fr/en)
 
 # ![hey](hey_sized.gif) Hey, welcome to my page !  
 
