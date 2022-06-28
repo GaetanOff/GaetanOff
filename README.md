@@ -1,4 +1,4 @@
-![banner](GAETANDEV.png)
+![banner](GAETANDEV.webp)
 
 # ![hey](hey_sized.gif) Hey !
 Welcome to my page !  
