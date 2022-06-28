@@ -1,7 +1,7 @@
 [![banner](GAETANDEV.webp)](https://gaetandev.fr/)
 
-# ![hey](hey_sized.gif) Hey !
-Welcome to my page !  
+# ![hey](hey_sized.gif) Hey, welcome to my page !  
+
 My name is Gaëtan, I'm a french full stack developer & an enthusiastic engineer "Devops". Currently using [Jetbrains](https://www.jetbrains.com/) tools. Working on dual boot [Manjaro](https://manjaro.org/) x [Windows](https://www.microsoft.com/en-us/windows). 
 
 # What main language am I using ? 
