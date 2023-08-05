@@ -2,7 +2,7 @@
 
 # ![hey](hey_sized.gif) Hey, welcome to my page !  
 
-My name is Gaëtan, I'm a french full stack developer & an enthusiastic engineer "Devops". Currently using [Jetbrains](https://www.jetbrains.com/) tools. Working on dual boot [Manjaro](https://manjaro.org/) x [Windows](https://www.microsoft.com/en-us/windows). 
+My name is Gaëtan, I'm a french full stack developer & an enthusiastic engineer "Devops". Currently using [Jetbrains](https://www.jetbrains.com/) tools. Working on [Macbook Pro M2](https://www.apple.com/fr/macbook-pro/) and also dual boot [Manjaro](https://manjaro.org/) x [Windows](https://www.microsoft.com/en-us/windows). 
 
 # What main language am I using ? 
 - [Svelte](https://svelte.dev/) / [Angular](https://angular.io/) ([HTML](https://developer.mozilla.org/fr/docs/Web/HTML), [CSS](https://developer.mozilla.org/fr/docs/Web/CSS), [SASS](https://sass-lang.com/), [TypeScript](https://www.typescriptlang.org/))
