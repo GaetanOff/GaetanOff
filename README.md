@@ -19,10 +19,10 @@ Currently using [Jetbrains](https://www.jetbrains.com/) tools, mainly working on
 - **Containers & Orchestration**: [Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/)  
 - **Infrastructure as Code**: [Terraform](https://www.terraform.io/), [Ansible](https://www.ansible.com/)
 
-# Where to find me ?
+# Where to Find Me?
 [![Discord](https://img.shields.io/static/v1?label=Discord&message=gaetandev&color=7289DA&logo=Discord&style=for-the-badge)]()
 
-# Stats
+# GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GaetanOff&show_icons=true&theme=radical)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GaetanOff&layout=compact)
 
