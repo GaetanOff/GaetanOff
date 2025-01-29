@@ -23,7 +23,7 @@ Currently using [Jetbrains](https://www.jetbrains.com/) tools, mainly working on
 [![Discord](https://img.shields.io/static/v1?label=Discord&message=gaetandev&color=7289DA&logo=Discord&style=for-the-badge)]()
 
 # GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GaetanOff&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GaetanOff&show_icons=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GaetanOff&layout=compact)
 
 
