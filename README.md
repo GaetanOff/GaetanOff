@@ -9,7 +9,7 @@ Currently using [Jetbrains](https://www.jetbrains.com/) tools, mainly working on
 # Tech Stack  
 ### 🌐 Frontend & Backend  
 - **Frameworks**: [Svelte](https://svelte.dev/) / [Angular](https://angular.io/)  
-- **Languages**: [TypeScript](https://www.typescriptlang.org/), [JavaScript](https://developer.mozilla.org/fr/docs/Web/JavaScript), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/), [Java](https://www.java.com/), [Kotlin](https://kotlinlang.org/), [Dart](https://dart.dev/)  
+- **Languages**: [TypeScript](https://www.typescriptlang.org/), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/), [Java](https://www.java.com/), [Kotlin](https://kotlinlang.org/), [Dart](https://dart.dev/)  
 - **Low-Level**: [Go](https://golang.org/), [C](https://fr.wikipedia.org/wiki/C_(langage)), [C++](https://fr.wikipedia.org/wiki/C++)
 
 ### ⚡ DevOps & Cloud  
